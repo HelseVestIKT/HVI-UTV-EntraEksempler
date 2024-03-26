@@ -2,6 +2,8 @@
 
 ## Demo Entra/AD-pålogging
 
+Mostly copy-pasted from HVIKT's app 'Desentralisert Blodprøvetaking'.
+
 Not functional without replacing values in:
 - environment.dart
 - android/app/build.gradle
