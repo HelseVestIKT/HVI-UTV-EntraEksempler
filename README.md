@@ -22,3 +22,5 @@ Beskrivelse av hvordan man kan bidra til prosjektet og eventuelle retningslinjer
 ## Lisens
 
 Beskrivelse av prosjektets lisens og eventuelle restriksjoner.
+
+## Annet
