@@ -24,3 +24,5 @@ Beskrivelse av hvordan man kan bidra til prosjektet og eventuelle retningslinjer
 Beskrivelse av prosjektets lisens og eventuelle restriksjoner.
 
 ## Annet
+
+Andre ting som må opplyses om
