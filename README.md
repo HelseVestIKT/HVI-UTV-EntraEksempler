@@ -25,4 +25,4 @@ Beskrivelse av prosjektets lisens og eventuelle restriksjoner.
 
 ## Annet
 
-Andre ting som må opplyses om
+Andre ting som må opplyses om. Som at man må bruke pr
